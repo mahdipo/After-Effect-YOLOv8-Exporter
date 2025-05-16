@@ -16,7 +16,7 @@ This script provides a semi-automatic method for generating YOLOv8 annotations f
 This script is part of the methodology presented in the paper:  
 **"A Fast and Consistent Method for Annotating Moving Objects in Videos Using Image Tracking"**  
 *Author: Mahdi Pourkerman*  
-*(To be published – source code made public for reproducibility)*
+GitHub Repository: [https://github.com/mahdipo/After-Effect-YOLOv8-Exporter](https://github.com/mahdipo/After-Effect-YOLOv8-Exporter)
 
 ## 🛠 Requirements
 
