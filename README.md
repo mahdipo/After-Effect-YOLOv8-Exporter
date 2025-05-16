@@ -42,8 +42,8 @@ project/
 ```
 
 ## 📥 How to Use
-1. copy the script to C:\Program Files\Adobe\Adobe After Effects "VersionNumber"\Support Files\Scripts\ScriptUI Panels\
-2. edit->prefrences->scripting&experssions->allow script to write file and access network
+1. Close AfterEffect if it's open, copy the script to C:\Program Files\Adobe\Adobe After Effects "VersionNumber"\Support Files\Scripts\ScriptUI Panels\
+2. Open AfterEffect -> edit->prefrences->scripting&experssions->allow script to write file and access network
 3. Open your composition with solid layers representing tracked objects 
 4. Select solid layers for export
 4. Run the script and enter class names and split percentages  
