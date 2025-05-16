@@ -1,4 +1,21 @@
-// edit->prefrences->scripting&experssions->allow script to write file and access network
+/**
+ * YOLOv8 Exporter Script for Adobe After Effects
+ * -----------------------------------------------
+ * Author: Mahdi Pourkerman
+ * 
+ * Description:
+ * This script was developed as part of a semi-automatic annotation framework 
+ * for labeling moving objects in videos using Adobe After Effects.
+ * It allows users to export YOLOv8-compatible labels from animated solid layers,
+ * automatically generating normalized bounding box data and structured output folders.
+ * 
+ * Related publication: 
+ * "A Fast and Consistent Method for Annotating Moving Objects in Videos Using Image Tracking"
+ */
+
+//how to run:
+//1-copy the script to C:\Program Files\Adobe\Adobe After Effects "VersionNumber"\Support Files\Scripts\ScriptUI Panels\
+//2-edit->prefrences->scripting&experssions->allow script to write file and access network
 
 (function() {
 	
