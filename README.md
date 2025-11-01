@@ -52,6 +52,8 @@ project/
 5. Click "Export" to generate label files and render frame sequences  
 6. Use the output with any YOLOv8-compatible training pipeline
 
+YouTube How To Use: [https://www.youtube.com/watch?v=BFTl9CU7rwg](https://www.youtube.com/watch?v=BFTl9CU7rwg)
+
 ## 📃 License
 
 MIT License – Free for academic and commercial use with attribution.
