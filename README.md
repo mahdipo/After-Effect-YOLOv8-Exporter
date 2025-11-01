@@ -17,7 +17,7 @@ This script is part of the methodology presented in the paper:
 **"A Fast and Consistent Method for Annotating Moving Objects in Videos Using Image Tracking"**  
 *Author: Mahdi Pourkerman*  
 GitHub Repository: [https://github.com/mahdipo/After-Effect-YOLOv8-Exporter](https://github.com/mahdipo/After-Effect-YOLOv8-Exporter)
-
+Youtube How To Use: [https://www.youtube.com/watch?v=BFTl9CU7rwg](https://www.youtube.com/watch?v=BFTl9CU7rwg)
 ## 🛠 Requirements
 
 - Adobe After Effects (tested on AE 2025 and later)
